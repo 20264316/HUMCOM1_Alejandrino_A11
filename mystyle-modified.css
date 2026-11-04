@@ -1,0 +1,9 @@
+/* MODIFIED: cream page, dark red heading indented 40px */
+body {
+  background-color: #fdf6e3;
+}
+
+h1 {
+  color: darkred;
+  margin-left: 40px;
+}
